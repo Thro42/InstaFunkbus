@@ -1,0 +1,22 @@
+{
+  "name": "InstaFunkbus",
+  "keywords": "Arduino, Insta, Funkbus, GIRA, Becker",
+  "description": "This Library can be used for Recive and Send Signals to Insta Funkbus devices",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thro42/InstaFunkbus.git"
+  },
+  "version": "0.1.0",
+  "authors": {
+    "name": "Robert Thomitzek",
+    "url": "http://www.thomitzek.com"
+  },
+  "exclude": [
+    "fuzzing",
+    "scripts",
+    "test",
+    "third-party"
+  ],
+  "frameworks": "arduino",
+  "platforms": ["arduino"]
+}
